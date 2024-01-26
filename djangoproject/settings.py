@@ -81,6 +81,7 @@ DATABASES = {
         'NAME': 'tweeter_db',
         'PASSWORD': 'password&123',
         'USER': 'root',
+
         'HOST': 'localhost'
     }
 }
