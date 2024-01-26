@@ -79,10 +79,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'tweeter_db',
-        'PASSWORD': 'password&123',
-        'USER': 'root',
 
-        'HOST': 'localhost'
     }
 }
 
