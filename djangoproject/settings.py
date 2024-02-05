@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'tweet',
     'user',
     'playground',
+    'rest_framework'
 ]
 
 MIDDLEWARE = [
